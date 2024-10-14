@@ -1,7 +1,3 @@
----
-description: Uptick Ecosystem Development Whitepaper | The Road to Web3 Adoption
----
-
 # Uptick Ecosystem Development Whitepaper
 
 **1. Abstract**
